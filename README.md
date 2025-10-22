@@ -1,6 +1,6 @@
 # GoPlay :video_game: 
 Find family-friendly activities near you — and book in a few taps.
-:construction: **This project is currently in progress.** 
+🚧 **This project is currently in progress.** 
 More features and updates are coming soon!
 ---
 
